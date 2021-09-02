@@ -1,0 +1,48 @@
+
+img {
+  border-radius: 50%;
+  height: 230px;
+  margin-left: 45%;
+  margin-right: 50%;
+  width:180px;
+}
+html {
+  background-color: turquoise;
+}
+h2 {
+  text-align: center;
+ font-family: 'Alex Brush', cursive;
+  font-size:30;
+    color: pink;
+}
+hr {
+  border: 2px solid black;
+  width: 80px;
+}
+p {
+  text-align: center;
+  color: green;
+}
+.menu {
+  top: 18px;
+  right: -20px;
+  position: absolute;
+  list-style: none;
+  font-size: 20px;
+  font-family: Calibri;
+  text-align: right;
+}
+li {
+  display: inline;
+  margin: 1px;
+  background-color:#E91E63 ;
+  cursor: pointer;
+  border-radius:5px;
+  border-height:50px;
+}
+.links:hover {
+  background-color:blue;
+}
+h1{
+  text-align:center;
+}
